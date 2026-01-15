@@ -12,13 +12,15 @@
 <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white" /></a>
 <!-- <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> -->
-<br>
+
 
 ## Certification
 - 정보처리기사
 - SQLD
 - ADsP
-<br><br>
 
-## Problem Solving
+## Algorithm Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nomad1jin)](https://solved.ac/nomad1jin/)
+
+## Blog
+https://velog.io/@nomad1jin/posts
