@@ -16,6 +16,7 @@
 
 ## Certification
 - 정보처리기사
+- AWS Certified Solutions Architect - Associate
 - SQLD
 - ADsP
 
