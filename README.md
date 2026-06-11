@@ -24,5 +24,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nomad1jin)](https://solved.ac/nomad1jin/)
 
 ## ETC
-https://velog.io/@nomad1jin/posts
+https://velog.io/@nomad1jin/posts </br>
 yj007shin@gmail.com
