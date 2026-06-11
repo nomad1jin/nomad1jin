@@ -23,5 +23,6 @@
 ## Algorithm Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nomad1jin)](https://solved.ac/nomad1jin/)
 
-## Blog
+## ETC
 https://velog.io/@nomad1jin/posts
+yj007shin@gmail.com
